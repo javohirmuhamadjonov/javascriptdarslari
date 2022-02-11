@@ -1,2 +1,1 @@
 # javascriptdarslari
-javascript haqida tushunchalar
